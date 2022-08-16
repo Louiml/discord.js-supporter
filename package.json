@@ -1,0 +1,22 @@
+{
+    "name": "discord-js-supporter",
+    "displayName": "discord.js supporter",
+    "description": "easy coding discord bot with this extenstion",
+    "version": "0.0.1",
+    "publisher": "louiml.net",
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "categories": [
+        "Snippets",
+        "Education"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/supporter.json"
+            }
+        ]
+    }
+}
