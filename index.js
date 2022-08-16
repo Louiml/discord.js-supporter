@@ -1,5 +1,6 @@
 const Discord = require('discord.js')
 const djs = new Discord.Client();
+//easy creator bot
 const prefix = "you prefix"
 djs.on('ready', () => {
 console.log("the bot is ready")
