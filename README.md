@@ -11,4 +11,5 @@ way to other things</p>
 <p>ready()</p>
 <p>message() || msg()</p>
 <p>messageembed() || msgembed()</p>
+<p>fivemdata()</p>
 </div>
