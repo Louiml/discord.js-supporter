@@ -12,7 +12,7 @@ message.channel.send("Hello World I from louiml.net")
 })
 djs.on('message', (message) => {
 if(message.content.startWith(prefix + 'name command')) {
-const embed = new MessageEmbed()
+const embed2 = new MessageEmbed()
 .setAuthor() //.setAuthor("title", "Image URL(uncommitted)")
 .setTitle() //.setTitle("text")
 .setURL() //.setURL("https://louiml.net") showing this on the title
@@ -23,6 +23,6 @@ const embed = new MessageEmbed()
 .setImage() //.setImage("https://cdn.discordapp.com/banners/782591039256920074/c421ea204c35c7ff2971a808a83e596f.png") in bottom embed
 .setTimestamp() //.setTimestamp() showing the data in the footer but you can do .setTimestamp(16/08/2022)
 .setFooter() //.setFooter("text", "image URL")
-message.channel.send(embed)
+message.channel.send(embed2)
 }
 })

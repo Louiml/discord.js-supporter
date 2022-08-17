@@ -84,5 +84,11 @@
         "body": [
             "const data = await fetch(`http://server_ip:server_port/players.json`, { timeout: 3000 })"
         ]
+    },
+    "buttons": {
+    "prefix": "btn()",
+        "body": [
+        "put the code button"
+        ]
     }
 }
