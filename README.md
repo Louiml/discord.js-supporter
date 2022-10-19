@@ -3,7 +3,7 @@
 <p>easy coding discord.js with this</p>
 <p>now it a close beta, a full version of everything you need to know and a summary is out
 way to other things</p>
-<p>made by louiml.net</p>
+<p>made by louiml</p>
 </div>
 <h2 align="center">Commands:</h2>
 <div id="listcmds" align="center">
